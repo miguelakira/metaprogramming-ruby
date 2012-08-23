@@ -1,0 +1,3 @@
+== Metaprogramação em Ruby
+
+Apenas alguns exercícios e testes com metaprogramação em Ruby, usando principalmente o livro Metaprogramming Ruby, da Pragmatic Programmers.
