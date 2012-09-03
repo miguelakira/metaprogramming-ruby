@@ -1,5 +1,4 @@
-#---
-# Excerpted from "Metaprogramming Ruby",
+#rpted from "Metaprogramming Ruby",
 # published by The Pragmatic Bookshelf.
 # Copyrights apply to this code. It may not be used to create training material, 
 # courses, books, articles, and the like. Contact us if you are in doubt.
